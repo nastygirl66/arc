@@ -1,1 +1,1 @@
-fix for KeyError: 'epoch' (#48)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
