@@ -1,1 +1,1 @@
-Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
+TensorRT FP16 export with dynamic=True (#7870)
