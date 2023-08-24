@@ -1,1 +1,1 @@
-More robust PNNX downloads (#8866)
+Add docs guide terminal images (#8819)
