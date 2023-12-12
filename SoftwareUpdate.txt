@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Fix RTDETR generate anchor grid out of boundary (#7247)
