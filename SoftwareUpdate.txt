@@ -1,1 +1,1 @@
-Add YOLOv9 Docs page (#8478)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
