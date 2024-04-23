@@ -1,1 +1,1 @@
-Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
+Add new YOLOv8 OBB model metrics (#7379)
