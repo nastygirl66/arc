@@ -1,1 +1,1 @@
-Tracker: clean up GMC (#8003)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
