@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+OBB: Fix plot_images (#7592)
